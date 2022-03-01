@@ -1,7 +1,7 @@
 # Hello, I'm Rob Lefferts.
 
 ## Who am I?
-I'm a Mechanical Engineer by degree and currently a Software Engineer by career, formerly a Mechanical Design Engineer (although I still do a good amount of that, too). I work with industrial automation systems, robots, device-to-device communication, motor control, and I enjoy getting differnt devices to talk, creating intuitive GUI's for equipment/devices, and designing reusable code. I love computers, code, astronomy, watching sports, and my family.
+I'm a Mechanical Engineer by degree and currently a Software Engineer by career, formerly a Mechanical Design Engineer (although I still do a good amount of that, too). I work with industrial automation systems, robots, device-to-device communication, motor control, and I enjoy getting different devices to talk, creating intuitive GUI's for equipment/devices, and designing reusable code. I love computers, code, astronomy, camping, sports, and my family.
 
 ## How to contact me...
 robert.w.lefferts@gmail.com

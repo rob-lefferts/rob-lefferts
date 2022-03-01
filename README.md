@@ -1,18 +1,7 @@
 # Hello, I'm Rob Lefferts.
 
-## Why I'm here...
-I'm a Mechanical Engineer by degree who is working to get into the software field in either a Data Science or a Development role.
-
-## Some background...
-I do have some experience in software development in both professional and hobby capacities:
-- I've developed software for automated manufacturing equipment which included TwinCAT PLC and HMI development. This also included network access, multiple levels of access for the machine, creation and communication with a SQL database which held machine parameters, and VBScript for more advanced HMI functionality.
-- I've developed software for semi-automated lab testing equipment which included TwinCAT PLC and HMI development. I also developed an algorithm that analyzed testing results and determined the critical datapoint from the test.
-- Using Excel VBA and formulas, I've developed semi-automated methods of extracting and formatting raw data from a test lab into a format setup to obtain quick visualization and analysis of large amounts of data points. This method was utilized by colleagues to speed up their data analysis as well.
-- I developed software for a patent prototype as a consultant which involved integrating motor control and QR code scanner with an Arduino microcontroller. I also developed a GUI using Visual C# to control the device, read its output, and run a demo of the product.
-
-## What I'm currently learning...
-- I've been taking classes in Python, Data Science, Machine Learning, and Deep Learning
-- I've been learning HTML, CSS, and JavaScript
+## Who am I?
+I'm a Mechanical Engineer by degree and currently a Software Engineer by career, formerly a Mechanical Design Engineer (although I still do a good amount of that, too). I work with industrial automation systems, robots, device-to-device communication, motor control, and I enjoy getting differnt devices to talk, creating intuitive GUI's for equipment/devices, and designing reusable code. I love computers, code, astronomy, watching sports, and my family.
 
 ## How to contact me...
 robert.w.lefferts@gmail.com
